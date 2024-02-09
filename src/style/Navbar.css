@@ -1,0 +1,33 @@
+
+  
+  .container nav ul li {
+    margin-right: 27px; 
+
+  }
+  
+ 
+  
+  .container nav a {
+    text-decoration: none;
+    color: blue; 
+    font-weight: bold;
+  }
+  
+  .container nav a:hover {
+    color: green; /* Hover durumunda istenilen renk */
+  }
+  
+
+
+
+
+  .bilgiler-dropdown .bb .navbar-brand{
+    text-align: center;
+    color: blue;
+  }
+
+  .bilgiler-dropdown .bb :hover {
+    color: green; /* Dilediğiniz hover rengini ayarlayabilirsiniz */
+    text-align: center;
+  }
+  

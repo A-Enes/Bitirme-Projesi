@@ -1,0 +1,19 @@
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .product-box  {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 20%; /* İlgilenilen kartın genişliğini ayarlayın */
+    height: 100%;
+  }
+  
+  .product-box img {
+    width: 100%; /* Kartın içindeki görüntünün genişliği %100 olacak şekilde ayarlayın */
+    height: auto;
+  }
