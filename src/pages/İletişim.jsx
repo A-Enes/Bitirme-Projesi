@@ -12,15 +12,6 @@ function İletişim() {
 
         <hr />
         <h3>Eposta: <p>bizimmeram@meram.bel.tr</p></h3>
-
-        <hr />
-        <h3>Kep Adresi: <p>merambelediyesi@hs01.kep.tr</p></h3>
-
-        <hr />
-        <h3>E Tebligat: <p>35846-96487-38597</p></h3>
-
-        <hr />
-        <h3>IBAN: <p>TR33 0001 2009 5240 0007 0000 02</p></h3>
     </div>
   )
 }
